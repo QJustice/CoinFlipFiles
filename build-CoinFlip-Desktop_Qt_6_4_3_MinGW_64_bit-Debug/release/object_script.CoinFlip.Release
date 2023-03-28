@@ -1,0 +1,14 @@
+release/cchooselevelscene.o
+release/cmycoin.o
+release/cmypushbutton.o
+release/cplayscene.o
+release/dataconfig.o
+release/main.o
+release/cmainscene.o
+release/qrc_res.o
+release/moc_cchooselevelscene.o
+release/moc_cmainscene.o
+release/moc_cmycoin.o
+release/moc_cmypushbutton.o
+release/moc_cplayscene.o
+release/moc_dataconfig.o

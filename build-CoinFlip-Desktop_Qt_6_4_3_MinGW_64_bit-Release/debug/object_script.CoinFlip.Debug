@@ -1,0 +1,14 @@
+debug/cchooselevelscene.o
+debug/cmycoin.o
+debug/cmypushbutton.o
+debug/cplayscene.o
+debug/dataconfig.o
+debug/main.o
+debug/cmainscene.o
+debug/qrc_res.o
+debug/moc_cchooselevelscene.o
+debug/moc_cmainscene.o
+debug/moc_cmycoin.o
+debug/moc_cmypushbutton.o
+debug/moc_cplayscene.o
+debug/moc_dataconfig.o
